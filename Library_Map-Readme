@@ -1,0 +1,52 @@
+Library Map
+
+A map of the Saint Mary's College (SMC) Library. Created in Inkscape (0.91).
+
+Description of file versions
+
+Map_Template-2.0.svg
+	Document Properties (Shift+Ctrl+D)
+		Default units: px
+		Width: 1800
+		Height: 1440
+	Grids
+		Rectangular Grid
+		Snap to visible grid lines only
+		Spacing X: 5.6 px
+		Spacing Y: 5.6 px
+		Major grid line every: 4
+Drawing depicts the 36 2'x 2' posts in and around the building. May be used to begin drawing the three floors.
+
+Map_Template-First_Floor-2.0.svg
+	Includes all of the above plus:
+	Lines for the outside walls of the building
+
+Map_Template-First_Floor-2.1.svg
+	Includes all of the above plus:
+	Interior walls
+	Elevator
+	Circulation counter
+	Entrance doors and walls
+	Stairs
+
+Map_Template-First_Floor-2.2.svg
+	Includes all of the above plus:
+	
+Map_Template-Second_Floor-2.0.svg
+	Includes all of the elements and document properties of Map_Template-2.0.svg plus:
+		
+
+Map_Template-Second_Floor-2.1.svg
+	Includes all of the above for the second floor plus:
+	Outside walls
+	Balconies
+	Interior walls
+	Elevator
+	Stairs
+
+Map_Template-Second_Floor-2.2.svg
+	Includes all of the above for the second floor plus:
+	Exterior windows
+	
+
+
